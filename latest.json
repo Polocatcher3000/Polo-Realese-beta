@@ -1,11 +1,11 @@
 {
-  "version": "2.3.2",
-  "notes": "POLO 2.3.2 live update channel\n\nPublishes the first update discoverable from POLO 2.3.1 through Update Center → Check now.\nFixes GitHub-normalized release asset URLs and keeps Tauri signature verification before installation.\nUpdates install only after the user explicitly chooses Install now.\n",
-  "pub_date": "2026-09-09T20:51:59.638Z",
+  "version": "2.4.0",
+  "notes": "POLO 2.4.0 — Laptop Intelligence & Control Center\n\n- New Laptop Intelligence workspace with native AC/battery state, hardware topology and transparent OEM capability gates.\n- New POLO Background Core: optional Windows startup, tray mode and crosshair continuity until explicit exit.\n- New reversible current-user Startup Manager.\n- Expanded Windows Control Center research metadata, A/B entry points and not-recommended library.\n- Improved bounded network evidence for ICMP, DNS and adapters.\n\nNo unsupported OEM, MUX, fan, charge-limit or real throughput control is simulated.\n",
+  "pub_date": "2026-09-09T21:57:37.338Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaktJMURtcVhwMXVHY2R1cERPTWZHOE1vL1JJVkQ1ZHdSYjAydHEySDFFYmdmbnY5MURrTnJONEJxSVlETXRmRHBFL1ZCSXZ3N3NJVHg5VXR4NkJqT3BnaTB5R2w4a1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTg3MTAzCWZpbGU6UE9MTyBUd2VhayBWMl8yLjMuMl94NjQtc2V0dXAuZXhlCjdGWkhlOTZvUkpGOHcyOUpqN1NVUFRWODdaalNscWZxRmdDUDY1TlBpVjlxR2RORyt4dllnR2hhZnNwNlp6QS9KSWg5a1JiVEhWbGVjcDB1dkxJOER3PT0K",
-      "url": "https://github.com/Polocatcher3000/Polo-Realese-beta/releases/download/v2.3.2/POLO.Tweak.V2_2.3.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaktJMURtcVhwMW9RejhnQU04YlVLc1hwdzd0MGoyMVJGMEx3ZW94TnNacHUxQWFlSXNDeE10OU96bExXK3BNeDY1NE9WYjFIdTNXWW03OU5YVmluRVpTQzM2Sk5xWndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTkxMDMxCWZpbGU6UE9MTyBUd2VhayBWMl8yLjQuMF94NjQtc2V0dXAuZXhlCmdVVy8xdjRJbWZscUFLYTlJTFhNWGJ0WFIvdG1BVzJVOXRvalhEQ3VsdmFLMC9PaFlzRXhPM1pQb280SE04d0toRmgwYUdsa0tnNFB2TjB4RTlyZkRRPT0K",
+      "url": "https://github.com/Polocatcher3000/Polo-Realese-beta/releases/download/v2.4.0/POLO.Tweak.V2_2.4.0_x64-setup.exe"
     }
   }
 }
