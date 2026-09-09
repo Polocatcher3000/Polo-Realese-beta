@@ -1,11 +1,11 @@
 {
-  "version": "2.3.1",
-  "notes": "POLO updater bootstrap\n\nAdds GitHub Pages discovery, GitHub Releases downloads and Tauri signature verification.\nThe first bootstrap must be installed manually on versions built without this updater.\nUpdates are installed when the user chooses Install now. Automatic rollback and resumable downloads are not provided by this transport.\n",
-  "pub_date": "2026-09-09T20:47:22.868Z",
+  "version": "2.3.2",
+  "notes": "POLO 2.3.2 live update channel\n\nPublishes the first update discoverable from POLO 2.3.1 through Update Center → Check now.\nFixes GitHub-normalized release asset URLs and keeps Tauri signature verification before installation.\nUpdates install only after the user explicitly chooses Install now.\n",
+  "pub_date": "2026-09-09T20:51:59.638Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaktJMURtcVhwMWhKM0FoR3VKOFE3d3JReHZleC80Q3VFVi8zWHYvZW45cktESnNPR05LbURQblUwUEQ3enZwUnU5aTRLQW53bjZGVFhidEEzdWlRRXdxVEZvZ0NURndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTg2MDM5CWZpbGU6UE9MTyBUd2VhayBWMl8yLjMuMV94NjQtc2V0dXAuZXhlCjIvRjdVYUlDS3NSelVBeXRXL3JRR2Fma21mYXZtdjE4WmJ5MThnUS83TWszMTlZai91TVNHclk4L2d3Szl0SjlDNENtWlNBRDZrcndrVXBvTDdLZUJnPT0K",
-      "url": "https://github.com/Polocatcher3000/Polo-Realese-beta/releases/download/v2.3.1/POLO.Tweak.V2_2.3.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaktJMURtcVhwMXVHY2R1cERPTWZHOE1vL1JJVkQ1ZHdSYjAydHEySDFFYmdmbnY5MURrTnJONEJxSVlETXRmRHBFL1ZCSXZ3N3NJVHg5VXR4NkJqT3BnaTB5R2w4a1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTg3MTAzCWZpbGU6UE9MTyBUd2VhayBWMl8yLjMuMl94NjQtc2V0dXAuZXhlCjdGWkhlOTZvUkpGOHcyOUpqN1NVUFRWODdaalNscWZxRmdDUDY1TlBpVjlxR2RORyt4dllnR2hhZnNwNlp6QS9KSWg5a1JiVEhWbGVjcDB1dkxJOER3PT0K",
+      "url": "https://github.com/Polocatcher3000/Polo-Realese-beta/releases/download/v2.3.2/POLO.Tweak.V2_2.3.2_x64-setup.exe"
     }
   }
 }
