@@ -1,11 +1,12 @@
 {
-  "version": "2.4.0",
-  "notes": "POLO 2.4.0 — Laptop Intelligence & Control Center\n\n- New Laptop Intelligence workspace with native AC/battery state, hardware topology and transparent OEM capability gates.\n- New POLO Background Core: optional Windows startup, tray mode and crosshair continuity until explicit exit.\n- New reversible current-user Startup Manager.\n- Expanded Windows Control Center research metadata, A/B entry points and not-recommended library.\n- Improved bounded network evidence for ICMP, DNS and adapters.\n\nNo unsupported OEM, MUX, fan, charge-limit or real throughput control is simulated.\n",
-  "pub_date": "2026-09-09T21:57:37.338Z",
+  "version": "2.4.1",
+  "notes": "POLO 2.4.1 — Language & Control Center\n\n- Spanish and Dutch interface expansion across the RAM/Storage and Windows Control Center screens.\n- Yellow update notice remains visible across app restarts until a newer version is installed; it links to Update Center.\n- Six additional documented Edge controls for tabs, New Tab content, prompts and privacy. Each has readback, confirmation and exact rollback state.\n- Faster Windows scans: native administrator check replaces a PowerShell launch.\n- UI translation updates changed nodes rather than rescanning the entire app after every render.\n\nPOLO does not claim universal FPS or ping gains. Browser policy effects depend on Edge version and profile type. Unsupported Windows and hardware controls remain unavailable.\n",
+  "pub_date": "2026-09-12T22:34:48.114Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaktJMURtcVhwMW9RejhnQU04YlVLc1hwdzd0MGoyMVJGMEx3ZW94TnNacHUxQWFlSXNDeE10OU96bExXK3BNeDY1NE9WYjFIdTNXWW03OU5YVmluRVpTQzM2Sk5xWndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTkxMDMxCWZpbGU6UE9MTyBUd2VhayBWMl8yLjQuMF94NjQtc2V0dXAuZXhlCmdVVy8xdjRJbWZscUFLYTlJTFhNWGJ0WFIvdG1BVzJVOXRvalhEQ3VsdmFLMC9PaFlzRXhPM1pQb280SE04d0toRmgwYUdsa0tnNFB2TjB4RTlyZkRRPT0K",
-      "url": "https://github.com/Polocatcher3000/Polo-Realese-beta/releases/download/v2.4.0/POLO.Tweak.V2_2.4.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaktJMURtcVhwMW9aVE5LbmJYdVQydUhDTHdwdm1COUFBNmUxcHE4VGk3Nzd3Q1orTTAzM1kxZHBKOFR0ZTAxR2ZLUU9TWUZFNGtDc3lZaDUzTlJwWDBFT3l3WTFobFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MjUyNDY3CWZpbGU6UE9MTyBUd2VhayBWMl8yLjQuMV94NjQtc2V0dXAuZXhlCmEwU1VNTW1VaDJnZXREL2tTZlQwbjBNdzZjMUN5RHZIUm1yc1VwdjF2bmtocEFmT2lHcURvUHRGUWdXZzlZRTZGUDg0ZTZvL3VxV09Wc016UlJMSUJRPT0K",
+      "url": "https://github.com/Polocatcher3000/Polo-Realese-beta/releases/download/v2.4.1/POLO.Tweak.V2_2.4.1_x64-setup.exe"
     }
   }
 }
+
