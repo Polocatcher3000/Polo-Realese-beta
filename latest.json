@@ -1,11 +1,12 @@
 {
-  "version": "2.4.3",
-  "notes": "POLO 2.4.3 — Home Command Surface V3\n\n- NEW: Home command surface with system coverage, quick check and recent activity.\n- NEW: Contextual command palette actions and recovery-aware status.\n- NEW: Cached laptop and power intelligence for faster startup.\n- UI performance improvements and incremental translations.\n",
-  "pub_date": "2026-09-13T00:00:00Z",
+  "version": "2.4.2",
+  "notes": "POLO 2.4.2 — Network, GPU & Game Controls\n\n- NEW: DNS selection (Cloudflare, Google, Quad9 or automatic IPv4), actual adapter readback, confirmation and a saved restore point. IPv6 is preserved.\n- NEW: M-Lab NDT7 download/upload tests with explicit privacy consent, cancellation and bounded timeouts. Latency, jitter and loss remain separate measurements.\n- NEW: Three NVIDIA controls (OpenGL threading, driver FXAA off and application-controlled anisotropic filtering) and two TCP controls (RSC and ECN). Unsupported settings stay unavailable.\n- NEW: Three Fortnite graphics settings for existing configuration keys: textures, view distance and anti-aliasing, with visual trade-offs and backups.\n- NEW: Three optional NVIDIA/AMD shader-cache cleanup categories for files older than 30 days. Rebuilding shaders can cause temporary stutter; these are not preselected.\n- Larger Startup Manager text and clearer network buttons; adapter inventory no longer starts automatically.\n- Premium 3D setup retained. Paths with spaces use the NSIS-compatible argument format, with protected-folder checks.\n- Spanish and Dutch copy expanded for the new network controls.\n\nM-Lab collects the public IP and publishes measurement data. Speed tests can use substantial data and do not guarantee the speed of your Internet plan. Bufferbloat/loaded-latency grades are not calculated. DNS does not increase your plan's bandwidth. POLO does not claim universal FPS or ping gains.\n",
+  "pub_date": "2026-09-13T18:30:44.555Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSGlKeS9VY05qcFlxM3NrNlA3dkxPTGx2cFdqZlF0NmM0YzdQZmkzZFFPRFlxSmVnNU5oejFhdGlJODhISXY5R2NDaW82VTB0RS9XTDZ2Qml1cnFQSEVTbVNGZzFzaEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MzMwMDc5CWZpbGU6UE9MTyBUd2VhayBWMl8yLjQuM194NjQtc2V0dXAuZXhlCjFyaFFUa2oydG5CN3o3RmFkc01hcU9xb2ZOZVpXSURjaWFXZzlRQVg0WDQ2Q0FHZlZMNXp5VWw2OEd4ZkxkdTJHTkZNd0ZHV0YwaHQ3VGV5c2tQNEJnPT0K",
-      "url": "https://github.com/Polocatcher3000/Polo-Realese-beta/releases/download/v2.4.3/POLO.Tweak.V2_2.4.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaktJMURtcVhwMXArby9ITlM5T2ZqdjR3eUdJNXc1ZWllZkN0ZHRMU2RFcDdkV0ZKbkVLdW5KYnRMenYvbGlHWjFIbmdad2tobS9EUEM0UW9nTHRlUVpiTmZFQ2x0aVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MzI0MjAyCWZpbGU6UE9MTyBUd2VhayBWMl8yLjQuMl94NjQtc2V0dXAuZXhlCjRxNVl3aThUc2ViTFgyVldpci9yN3dTenc3VURUR0FJSVJXYitIamVkaU1id2k3Q0dLYUJyakw4ZFlUSFBvRW1INVpWZDRibC84K1ZTUzVyMlNiOEJ3PT0K",
+      "url": "https://github.com/Polocatcher3000/Polo-Realese-beta/releases/download/v2.4.2/POLO.Tweak.V2_2.4.2_x64-setup.exe"
     }
   }
 }
+
