@@ -1,9 +1,24 @@
 # POLO Releases
 
-Public distribution channel for signed POLO updates.
+Official public distribution channel for **POLO Gaming Intelligence**.
 
-- Update catalog: `latest.json`
-- Installers and public signatures: GitHub Releases
-- Application source code is not distributed from this repository.
+> **BETA SOFTWARE**
+>
+> POLO is currently in active development. During the beta period, you may encounter bugs, incomplete features, compatibility issues, or unexpected behavior. These issues are actively being identified and improved as the project moves toward a stable release.
 
-POLO verifies each update with the public key embedded in the application before installation.
+### Distribution
+
+- **Update catalog:** `latest.json`
+- **Installers and signatures:** GitHub Releases
+- **Application source code:** Not distributed through this repository
+
+### Update Security
+
+Every POLO update is verified before installation using the public signing key embedded in the application.
+
+Only releases published through this repository should be considered official POLO builds.
+
+---
+
+**POLO is evolving.**  
+Features, interfaces, and internal systems may change during the beta period.
